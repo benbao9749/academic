@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Frontal Cortex
-subtitle: '2018'
+subtitle: 
 summary: 'The frontal cortex is the anterior portion of the neocortex, and select structural and functional
 differences exist across species. The frontal cortex
 serves many complex cognitive, social, and language
@@ -11,6 +11,7 @@ and self-control.'
 authors:
 - Darren W Campbell
 - Zhongjie Bao
+- '2018'
 tags: []
 categories: []
 date: 2018-01-01

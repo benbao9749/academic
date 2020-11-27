@@ -63,10 +63,8 @@ highlight_name: false
 # - Visitors
 ---
 
-I am an international graduate student currently studying neuroscience at Western University. I am currently working on the effects of brain stimulation on neural basis of the self, supervised by [Dr. Paul Frewen](https://frewen.ca/meditations/).
+**Current graduate work:** I am an international graduate student currently studying neuroscience at Western University. I am currently working on the effects of brain stimulation on neural basis of the self, supervised by [Dr. Paul Frewen](https://frewen.ca/meditations/).
 
-My undergraduate thesis was on the effects of long-term cannabis use on the brain with fMRI data collected by the Human Connectome Project.
+**Undergraduate:** My undergraduate [thesis](https://www.researchgate.net/publication/346411209_Neurofunctional_Impact_of_Chronic_Cannabis_Use_on_Emotion) was on the effects of long-term cannabis use on the brain with fMRI data collected by the Human Connectome Project.
 
-As an international student from Sichuan, China, and I have 6 years of experience living in Canada working and studying. I am keen on bringing more value for people from my academic and personal experience.
-
-Teaching-wise, I have volunteered for 2 years at Laurentian Learning Center in North Bay teaching adult immigrants English. I have also worked as a math instructor for Mathnasium of North Bay.
+**Teaching and volunteering:** As an international student from Sichuan, China, and I have 6 years of experience living in Canada working and studying. I have volunteered for 2 years at Laurentian Learning Center in North Bay teaching adult immigrants English. I have also taught as a math instructor for [Mathnasium](https://www.mathnasium.ca/northbay) of North Bay.
