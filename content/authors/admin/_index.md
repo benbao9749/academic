@@ -14,17 +14,17 @@ organizations:
   url: "https://www.uwo.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Neuroscience graduate student studying the potential of brain stimulation on our sense of the self. 
+bio: MSc candidate
 
 interests:
-- Sense of self 
-- non-invasive brain stimulation
-- neuroimaging of the self
+- Self-referential Processing 
+- Non-invasive brain stimulation
+- Neuroimaging of the self
 
 education:
   courses:
   - course: MSc in neuroscience
-    institution: Univerisity of Western Ontario
+    institution: Western University
     year: 2019-2021
   - course: BSc in Psychology
     institution: Nipissing University
@@ -58,15 +58,15 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I am an international graduate student currently studying neuroscience at Western University. Currently working on the effects of brain stimulation on neural basis of the self, supervised by Dr. Paul Frewen
+I am an international graduate student currently studying neuroscience at Western University. I am currently working on the effects of brain stimulation on neural basis of the self, supervised by [Dr. Paul Frewen](https://frewen.ca/meditations/).
 
-In my undergraduate studies, I did research on the effects of cannabis on the brain with fMRI data collected by the Human Connectome Project.
+My undergraduate thesis was on the effects of long-term cannabis use on the brain with fMRI data collected by the Human Connectome Project.
 
-As an international student from Sichuan, China, I have 5 years of experience living in Canada working and studying. I am keen on bringing more value to more people who would benefit from my experience. I have volunteered for 2 years at Laurentian Learning Center in North Bay teaching immigrants English.
+As an international student from Sichuan, China, and I have 6 years of experience living in Canada working and studying. I am keen on bringing more value for people from my academic and personal experience.
 
-I have also worked as a math instructor for Mathnasium of North Bay. I have accumulated experience in teaching math concepts in ways that would be better understood by students.
+Teaching-wise, I have volunteered for 2 years at Laurentian Learning Center in North Bay teaching adult immigrants English. I have also worked as a math instructor for Mathnasium of North Bay.
