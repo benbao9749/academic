@@ -14,7 +14,7 @@ organizations:
   url: "https://www.uwo.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc candidate
+bio: I study the neuroimaging of the self, and potential interventions with brain stimulation. 
 
 interests:
 - Self-referential Processing 

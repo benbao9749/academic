@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Talks and Posters"
+title = "Thesis Projects"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "MSc Candidate"
+  company = "Western University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "London, Ontario"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Thesis project involves:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Reviewing the brain stimulation literature on self-referential processing
+  * Design and conduct tDCS experiments with EEG data collection
+  * Analyse and visualize the data
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "BSc Psychology"
+  company = "Nipissing University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "North Bay, Ontario"
+  date_start = "2015-09-01"
+  date_end = "2019-06-30"
+  description = """[Thesis:](https://www.researchgate.net/publication/346411209_Neurofunctional_Impact_of_Chronic_Cannabis_Use_on_Emotion) 
+  * 
+  * Analyzed behavioural and fMRI data from the Human Connectome Project database
+  """
+  
 +++
