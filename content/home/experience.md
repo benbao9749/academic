@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
   description = """[Thesis:](https://www.researchgate.net/publication/346411209_Neurofunctional_Impact_of_Chronic_Cannabis_Use_on_Emotion) 
-  * 
   * Analyzed behavioural and fMRI data from the Human Connectome Project database
   """
   
