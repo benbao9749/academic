@@ -40,7 +40,7 @@ social:
   link: 'mailto:zbao9@uwo.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/zbao/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Zhongjie_Bao
